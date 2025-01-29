@@ -5,7 +5,7 @@ Este projeto consiste na modelagem e implementação de um banco de dados relaci
 
 ## 🔹 Tecnologias Utilizadas
 * MySQL como sistema gerenciador de banco de dados (SGBD)
-*SQL para criação e manipulação das tabelas e dados
+* SQL para criação e manipulação das tabelas e dados
 
 ## 📖 Passos Realizados
 
